@@ -4,7 +4,7 @@
 - OOP
 - Inheritance
 - Polymorphism
-- Smart Pointers
-- STL
+- **Smart Pointers**
+- **STL**
 - I/O Streams
 - Exception Handling    
